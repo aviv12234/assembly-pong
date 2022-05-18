@@ -1,2 +1,2 @@
-# pong.asm
-pong game made in x86 assembly.
+# assembly-pong
+pong.asm game made in x86 assembly.
